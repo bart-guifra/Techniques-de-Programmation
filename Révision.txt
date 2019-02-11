@@ -1,0 +1,2 @@
+1. Les instances du mot "maximus" sont dorénavant en majuscules.
+2. Ajout d'un nouveau paragraph en fin de texte.
